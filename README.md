@@ -1,4 +1,4 @@
-Presentation of Visualization 
+Presentation of Visualization Using Power Bi
 
 1. Sales Trend Over Time
 Graph Type: Ribbon Chart 
